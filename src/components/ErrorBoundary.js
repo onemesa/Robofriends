@@ -22,4 +22,4 @@ class ErrorBoundary extends Component {
 
 
 
-export default ErrorBoundary;
+// export default ErrorBoundary;
